@@ -13,7 +13,6 @@
   <img align="center" alt="rodrigo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="rodrigo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="rodrigo-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMQ0unukHTC3SuTvS-qHBQAh-xTdWWvnooqtKiBbRdxBtauOs_hy7oEt36YvMrNAs1Fc&usqp=CAU" style="width=676&height=676">
 </div>
 
 ##
