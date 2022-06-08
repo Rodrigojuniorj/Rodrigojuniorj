@@ -17,12 +17,22 @@
 
 </div>
 <div style="display: inline_block"><br> 
+   <!-- Main BACKEND advanced -->
   <img align="center" alt="Arthur-Js" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Arthur-Ts" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Arthur-Node" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/> 
   <img align="center" alt="Arthur-Java" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
   <img align="center" alt="Arthur-Spring" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/>
   <img align="center" alt="Arthur-PHP" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
+  <!-- Main DATABASE advanced -->
+  <img align="center" alt="Arthur-MySQL" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/> 
+  <img align="center" alt="Arthur-Oracle" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"/> 
+  <img align="center" alt="Arthur-Pst" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"/> 
+  <!-- Main FRONTEND advanced -->
+  <img align="center" alt="Arthur-HTML" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Arthur-CSS" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <!-- INFRA -->
+  <img align="center" alt="Arthur-AWS" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 </div>
 
 ##
