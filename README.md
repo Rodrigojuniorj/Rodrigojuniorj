@@ -17,11 +17,12 @@
 
 </div>
 <div style="display: inline_block"><br> 
-  <img align="center" alt="rodrigo-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="rodrigo-CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="rodrigo-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="rodrigo-Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="rodrigo-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Arthur-Js" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Arthur-Ts" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Arthur-Node" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/> 
+  <img align="center" alt="Arthur-Java" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
+  <img align="center" alt="Arthur-Spring" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/>
+  <img align="center" alt="Arthur-PHP" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
 </div>
 
 ##
