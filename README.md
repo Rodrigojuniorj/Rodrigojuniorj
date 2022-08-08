@@ -1,7 +1,7 @@
 ### Olá! eu sou o Rodrigo Junior 💻 ###
 ##
 ### Freelance
-<a href="https://brrp.discloud.app/">Brasil Roleplay® [XBOX]🇧🇷</a>
+<a href="https://brrp.discloud.app/" target="_blank">Brasil Roleplay® [XBOX]🇧🇷</a>
 ##
 Experience:
  - FullStack Web Developer - PHP, Typescript, NodeJS, React
