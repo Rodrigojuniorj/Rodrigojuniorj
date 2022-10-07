@@ -6,10 +6,11 @@
 ### Hackathon
 <a href="https://turismo-bandeirantes.vercel.app/" target="_blank">Turismo de Bandeirantes - FrontCode</a>
 ##
-Experience:
- - FullStack Web Developer - PHP, Typescript, NodeJS, React
- - Web Automations - Selenium Python
- - Server - AWS
+### Stack:
+ # Stack: Typescript, Javascript, PHP, Python
+ # Framework: Vite, Next, Laravel
+ # Database: MongoDB, SQL, MySQL, PostgreSQL
+ # Libraries: TailwindCSS, StyledComponents, Material UI, Bootstrap, Selenium
  
 <br>
 <div>
