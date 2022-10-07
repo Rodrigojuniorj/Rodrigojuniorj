@@ -3,6 +3,9 @@
 ### Freelance
 <a href="https://brrp.discloud.app/" target="_blank">Brasil Roleplay® [XBOX]🇧🇷</a>
 ##
+### Hackathon
+<a href="https://turismo-bandeirantes.vercel.app/" target="_blank">Turismo de Bandeirantes - FrontCode</a>
+##
 Experience:
  - FullStack Web Developer - PHP, Typescript, NodeJS, React
  - Web Automations - Selenium Python
