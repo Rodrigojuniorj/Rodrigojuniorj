@@ -13,11 +13,13 @@
  <b>Libraries:</b> ReactJs, React Native, Bootstrap, StyledComponents, TailwindCSS, Selenium.
  
 <br>
+### Contact:
 <div>
  <a href="https://www.instagram.com/rodrigo_juniorj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-tavares-franco-junior-3a0059192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rodrigotavaresfranco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+##
 <br>
 
 
