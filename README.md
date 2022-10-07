@@ -7,10 +7,10 @@
 <a href="https://turismo-bandeirantes.vercel.app/" target="_blank">Turismo de Bandeirantes - FrontCode</a>
 ##
 ### Stack:
- # Stack: Typescript, Javascript, PHP, Python
- # Framework: Vite, Next, Laravel
- # Database: MongoDB, SQL, MySQL, PostgreSQL
- # Libraries: TailwindCSS, StyledComponents, Material UI, Bootstrap, Selenium
+ <b>Stack:</b> PHP, Typescript, Javascript, Python</br>
+ <b>Framework:</b> Vite, Next, ZendFramework2, Angular, NativeBase</br>
+ <b>Database:</b> MongoDB, SQL, MySQL, PostgreSQL</br>
+ <b>Libraries:</b> ReactJs, React Native, Bootstrap, StyledComponents, TailwindCSS, Selenium.
  
 <br>
 <div>
