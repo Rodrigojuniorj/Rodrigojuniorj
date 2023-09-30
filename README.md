@@ -45,11 +45,4 @@
 
 ##
 
-<br>
 
-<div> 
-  
- 
-![Snake animation](https://github.com/Rodrigojuniorj/Rodrigojuniorj/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
