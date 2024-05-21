@@ -1,5 +1,47 @@
-### Olá! eu sou o Rodrigo Junior 💻 ###
-##
+<h2>Olá! eu sou o Rodrigo Junior 💻</h2>
+<p>
+  Sou graduado em Sistemas de Informação e trago mais de quatro anos de experiência como programador full-stack. Durante minha jornada profissional, tenho trabalhado em uma variedade de projetos, aplicando minhas habilidades em desenvolvimento e gerenciamento de sistemas. Estou sempre inovando e em busca de novas tecnologias que possam aprimorar minhas habilidades e contribuir para soluções mais eficientes e escaláveis. 
+</p>
+
+<div style="display: flex">
+  <a href="https://www.linkedin.com/in/rodrigo-tavares-franco-junior-3a0059192/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:rodrigotavaresfranco@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<h2>✅ Linguagens que domino</h2>
+<div style="display: flex">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />  
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />  
+</div>
+<!-- 
 ### Portifólio
 <a href="https://portifolio-olive-kappa.vercel.app/" target="_blank">Portifólio</a>
 ##
@@ -15,37 +57,7 @@
  <b>Database:</b> MongoDB, SQL, MySQL, PostgreSQL</br>
  <b>Libraries:</b> ReactJs, React Native, Bootstrap, StyledComponents, TailwindCSS, Selenium.
  <b>Server:</b> AWS, Hostgator
-<br>
+<br> -->
 
-<div style="display: inline_block"><br> 
-   <!-- Main BACKEND advanced -->
-  <img align="center" alt="Rodrigo-Js" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rodrigo-Ts" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rodrigo-Node" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/> 
-  <img align="center" alt="Rodrigo-Java" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
-  <img align="center" alt="Rodrigo-Spring" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/>
-  <img align="center" alt="Rodrigo-PHP" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
-  <!-- Main DATABASE advanced -->
-  <img align="center" alt="Rodrigo-MySQL" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/> 
-  <img align="center" alt="Rodrigo-Oracle" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"/> 
-  <img align="center" alt="Rodrigo-Pst" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"/> 
-  <!-- Main FRONTEND advanced -->
-  <img align="center" alt="Rodrigo-HTML" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rodrigo-CSS" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!-- INFRA -->
-  <img align="center" alt="Rodrigo-AWS" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-</div>
-
-##
-
-### Contact:
-
-<div>
- <a href="https://www.instagram.com/rodrigo_juniorj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodrigo-tavares-franco-junior-3a0059192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rodrigotavaresfranco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-##
 
 
