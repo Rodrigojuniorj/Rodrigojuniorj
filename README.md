@@ -63,10 +63,15 @@
 <li>🥉  <strong>4º Optimism Blockchain Hackathon 2024 (NearX)</strong> - Projeto: NFT Access Control - Nível Nacional</li>
 </ul>
 
-<h2>Mais informações</h2>
+<h2>➕ Mais informações</h2>
 <ul>
 <li><a href="https://portifolio-olive-kappa.vercel.app/" target="_blank">Portifólio</a></li>
 <li><a href="https://github.com/Rodrigojuniorj/Rodrigojuniorj/blob/main/curriculo.pdf" target="_blank">Currículo</a></ul>
 
-
+<h2>🔎 Detalhes Github</h2>
+  <div align="center">
+    <a href="#"><img alt="Rodrigo Junior Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rodrigojuniorj&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <a href="#"><img alt="Rodrigo Junior Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigojuniorj&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <br/>
+  </div>
 
