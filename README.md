@@ -23,7 +23,9 @@
   <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/PHP-007ACC?style=for-the-badge&logo=PHP&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zend2-3982CE?style=for-the-badge&logo=ZEND&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -42,23 +44,26 @@
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />  
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />  
 </div>
-<!-- 
-### Portifólio
+
+<h2>✅ Outros conhecimentos</h2>
+<div style="display: flex">
+  <img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />  
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" />  
+  <img src="https://img.shields.io/badge/AWS-232F32?style=for-the-badge&logo=AmazonAWS&logoColor=white" />  
+  <img src="https://img.shields.io/badge/AWS-232F32?style=for-the-badge&logo=AmazonAWS&logoColor=white" />  
+</div>
+
+<h2>🏆 Premiações</h2>
+<ul>
+<li>🥇  <strong>1º Frontend Hackathon 2022</strong> - Projeto: Turismo Bandeirantes</li>
+<li>🥉  <strong>4º Optimism Blockchain Hackathon 2024 (NearX)</strong> - Projeto: NFT Access Control - Nível Nacional</li>
+</ul>
+
+<h2>Mais informações</h2>
 <a href="https://portifolio-olive-kappa.vercel.app/" target="_blank">Portifólio</a>
-##
-### Freelance
-<a href="https://brrp.discloud.app/" target="_blank">Brasil Roleplay® [XBOX]🇧🇷</a>
-##
-### Hackathon
-<a href="https://turismo-bandeirantes.vercel.app/" target="_blank">Turismo de Bandeirantes - FrontCode</a>
-##
-### Stack:
- <b>Stack:</b> PHP, Typescript, Javascript, Python, Java</br>
- <b>Framework:</b> Vite, Next, ZendFramework2, Angular, NativeBase, SpringBoot</br>
- <b>Database:</b> MongoDB, SQL, MySQL, PostgreSQL</br>
- <b>Libraries:</b> ReactJs, React Native, Bootstrap, StyledComponents, TailwindCSS, Selenium.
- <b>Server:</b> AWS, Hostgator
-<br> -->
-
-
+<a href="https://portifolio-olive-kappa.vercel.app/" target="_blank">Portifólio</a>
 
