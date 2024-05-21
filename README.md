@@ -65,6 +65,6 @@
 
 <h2>➕ Mais informações</h2>
 <ul>
-<li><a href="https://portifolio-olive-kappa.vercel.app/" target="_blank">Portifólio</a></li>
+<li><a href="https://portifolio-rodrigojuniorj.vercel.app" target="_blank">Portifólio</a></li>
 <li><a href="https://github.com/Rodrigojuniorj/Rodrigojuniorj/blob/main/curriculo.pdf" target="_blank">Currículo</a></ul>
 
